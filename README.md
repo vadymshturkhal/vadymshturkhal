@@ -8,4 +8,4 @@
 <code>🧑‍💻 Languages: Python, JavaScript</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>📫 vadymshturkhal@gmail.com(mailto:your-email)</code>
+<code>📫 vadymshturkhal@gmail.com</code>
