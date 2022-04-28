@@ -1,4 +1,4 @@
-<code>🎓 Student: Free courses</code>
+<code>🎓 Student: Metarhia</code>
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
